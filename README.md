@@ -1,0 +1,2 @@
+# -AMP-Running-Linux-and-Bare-Metal-System-on-Both-Zynq-SoC-Processors
+The Zynq-7000 All Programmable SoC contains two ARM Cortex-A9 processors that can be configured to concurrently run independent software stacks or executables. This demo software shows  a method of starting up both processors, each running its own operating system and application, and allowing each processor to communicate with the other through shared memory
